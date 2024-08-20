@@ -1,0 +1,13 @@
+.Navigation{
+    display: flex;
+  justify-content: space-between;
+  }
+  
+.Navigation ul{
+    display: flex;
+  }
+  
+.Navigation ul li{
+  list-style: none;
+  padding: 10px 10px;
+  }

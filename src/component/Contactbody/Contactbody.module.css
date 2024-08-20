@@ -1,0 +1,49 @@
+.container{
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    align-items: end;
+}
+
+.topButton{
+    display: flex;
+    margin-top: 36px;
+}
+
+.mt_5{
+    margin-top: 20px;
+    padding: 10px 40px;
+}
+.lebal{
+    display: block;
+    font-size: 18px;
+    font-weight: bolder;
+    margin: 20px 0 10px 0;
+}
+
+.input{
+    width: 86%;
+    padding: 10px 20px;
+}
+.input2{
+    width: 86%;
+    height: 80px;
+    padding: 10px 20px;
+}
+.button1{
+    width: 66%;
+    padding: 10px 10px;
+    background-color: #000;
+    color: #fff;
+    border-radius: 9px;
+    margin: 20px 0px;
+    font-weight: bold;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    justify-content: center;
+}
+.formbody{
+    padding: 18px;
+}
